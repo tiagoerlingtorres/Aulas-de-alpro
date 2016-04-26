@@ -17,7 +17,7 @@ public class Arvore {
         raiz = inserir0(raiz, chave);
     }
     private Nodo inserir0(Nodo ,int chave ){
-        fdfsd
+        fdfsdgsggsdf
     }
     
 }
